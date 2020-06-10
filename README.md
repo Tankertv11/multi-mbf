@@ -2,7 +2,7 @@
 * [Instalation](#installation)
 * [Feature](#feature)
 * [YOUTUBE](#youtube)
-* [DONATE] (#donate)
+* [DONATE](#donate)
 
 ## Feature
 * Login with Cookie
