@@ -28,4 +28,4 @@ Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
 
 ## donate
 Untuk Mendukung agar script dapat berkembang kalian bisa donasi ke akun dana saya :)
-NO : 082388196755
+<ul> <Li>NO : 082388196755</ul><li/>
