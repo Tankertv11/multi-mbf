@@ -22,10 +22,10 @@ $ cd multi-mbf
 $ python3 sans.py
 ```
 
-## youtube
+## YOUTUBE
 Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
 
 
-## donate
+## DONATE
 Untuk Mendukung agar script dapat berkembang kalian bisa donasi ke akun dana saya :)
 <ul> <Li>NO : 082388196755</ul>
