@@ -5,8 +5,8 @@
 * [DONATE](#donate)
 
 ## Feature
-* Login with Cookie
-* Fast Cracking
+* Loginya Pake Cookie Bro
+* Proses Hack yang Sungguh cepat 
 * Extra Password
 
 ## Installation
@@ -28,4 +28,4 @@ Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
 
 ## DONATE
 Untuk Mendukung agar script dapat berkembang kalian bisa donasi ke akun dana saya :)
-<ul>NO : 082388196755</ul>
+<ul><li>NO : 082388196755</ul></li>
