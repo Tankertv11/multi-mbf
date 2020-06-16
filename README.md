@@ -17,15 +17,15 @@ $ pkg install python
 $ apt install git
 $ pip install requests bs4
 $ python3 -m pip install requests bs4
-$ git clone https://github.com/SansBae/multi-mbf
+$ git clone https://github.com/Tankertv11/multi-mbf
 $ cd multi-mbf
 $ python3 sans.py
 ```
 
 ## YOUTUBE
-Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
+Click [here](https://www.youtube.com/c/tankertv) To Subscribe My Channel
 
 
 ## DONATE
 Untuk Mendukung agar script dapat berkembang kalian bisa donasi ke akun dana saya :)
-<ul><li>NO : 082388196755</ul></li>
+<ul><li>NO : 089513660118</ul></li>
